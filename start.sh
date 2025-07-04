@@ -1,0 +1,1 @@
+streamlit run app/Home.py --server.port=$PORT --server.enableCORS=false
