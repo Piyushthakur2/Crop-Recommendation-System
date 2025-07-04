@@ -1,1 +1,1 @@
-streamlit run app/Home.py --server.port=$PORT --server.enableCORS=false
+streamlit run app/Pages/main.py --server.port=$PORT --server.enableCORS=false
